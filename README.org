@@ -1,0 +1,5 @@
+将rime用的词库转换为pyim所用的词库
+
+#+BEGIN_SRC shell
+rime2pyim -output /tmp ~/.config/ibus/rime/luna_pinyin.sougou.dict.yaml
+#+END_SRC
